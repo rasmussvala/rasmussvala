@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a fourth-year student in the M.Sc. program in Media Technology and Engineering, located in Norrköping, Sweden. Here are some fun facts about my most used programming languages 😄
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!--
